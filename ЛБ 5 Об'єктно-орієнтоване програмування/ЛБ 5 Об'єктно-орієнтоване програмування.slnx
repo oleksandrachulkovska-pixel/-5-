@@ -1,0 +1,8 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="../AngleLibrary/AngleLibrary.vcxproj" Id="feea22d9-8f6e-4fd0-b829-a13c6eae624e" />
+  <Project Path="ЛБ 5 Об'єктно-орієнтоване програмування.vcxproj" Id="ede740f6-0f72-4b69-ab28-0478f62abc9f" />
+</Solution>

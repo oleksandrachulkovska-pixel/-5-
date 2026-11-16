@@ -1,0 +1,14 @@
+{
+    "version": 1,
+    "revision": 0,
+    "rules": [
+        {
+            "primary-output": "ЛБ 5 Об'.ede740f6\\x64\\Debug\\ЛБ 5 Об'єктно-орієнтоване програмування.obj",
+            "outputs": [
+                "ЛБ 5 Об'.ede740f6\\x64\\Debug\\ЛБ 5 Об'єктно-орієнтоване програмування.h.obj.dt.module.json",
+                "ЛБ 5 Об'.ede740f6\\x64\\Debug\\ЛБ 5 Об'єктно-орієнтоване програмування.h.obj.dt.d.json"
+            ],
+            "requires": []
+        }
+    ]
+}
